@@ -1,0 +1,29 @@
+# Build output
+bin/
+obj/
+Build/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Local .NET/NuGet state
+.dotnet/
+packages/
+
+# Distribution archives
+*.zip
+*.7z
+*.rar
+
+# Compiled binaries
+*.dll
+*.pdb
+*.deps.json
+
+# OS files
+Thumbs.db
+.DS_Store
